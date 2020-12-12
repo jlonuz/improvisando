@@ -1,0 +1,22 @@
+* {
+  box-sizing: content-box;
+}
+
+body {
+  background-color: #000;
+}
+
+nav {
+  background-color: black;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+nav li {
+  text-transform: uppercase;
+}
+nav li a {
+  color: #fff;
+}
+
+/*# sourceMappingURL=style.css.map */
